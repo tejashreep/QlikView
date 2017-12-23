@@ -1,0 +1,2 @@
+# QlikView
+Mortality Analyzer App
